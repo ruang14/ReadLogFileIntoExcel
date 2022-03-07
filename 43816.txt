@@ -1,0 +1,28 @@
+Wed Jun 02 16:04:20 CAT 2021
+04200452337 | Thomas.nkala@sappi,com - Illegal address: javax.mail.internet.AddressException: Illegal address in string ``Thomas.nkala@sappi,com''
+04260008016 | phillips.stephen.sp.@gmail.com - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <phillips.stephen.sp.@gmail.com>
+
+04288807894 | thebogo.lebelo@sanlam .co.za - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``thebogo.lebelo@sanlam .co.za''
+05200533028 | stevenbaloyi@cglc.co.za /stevenb@cglc.co.za - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``stevenbaloyi@cglc.co.za /stevenb@cglc.co.za''
+05200600793 | wiltshire.carol.@gmail.com - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <wiltshire.carol.@gmail.com>
+
+05200740543 | abnortswane.gov.za - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <abnortswane.gov.za>
+
+05200933264 | mailto:zandreplum@yahoo.com - Local address contains illegal character: javax.mail.internet.AddressException: Local address contains illegal character in string ``mailto:zandreplum@yahoo.com''
+05201035059 | susankymdell@gmail.co. - Domain ends with dot: javax.mail.internet.AddressException: Domain ends with dot in string ``susankymdell@gmail.co.''
+10000004328 | PLOMBARD - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <PLOMBARD>
+
+10000048881 | THABISILEMMULTOTEC.COM - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <THABISILEMMULTOTEC.COM>
+
+10000070701 | greef.pieter.hendrik@gmail.com. - Domain ends with dot: javax.mail.internet.AddressException: Domain ends with dot in string ``greef.pieter.hendrik@gmail.com.''
+22200068411 | 083 944 5428 - Local address contains control or whitespace: javax.mail.internet.AddressException: Local address contains control or whitespace in string ``083 944 5428''

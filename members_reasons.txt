@@ -1,0 +1,834 @@
+Wed Jun 02 17:21:16 CAT 2021
+04200109006 | prempirtu5@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200109006.pdf (The system cannot find the file specified)
+04200542508 | johanmalan41@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200542508.pdf (The system cannot find the file specified)
+04200543411 | KRAVIATION@MWEB.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200543411.pdf (The system cannot find the file specified)
+04200555612 | DIDI.GRAHAM@YAHOO.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200555612.pdf (The system cannot find the file specified)
+04200601982 | nqabisa.nqezo@basf.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200601982.pdf (The system cannot find the file specified)
+04200607986 | brosnahanproductivity@aerosat.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200607986.pdf (The system cannot find the file specified)
+04200632872 | emailed jmasil11@ford.com - Local address contains control or whitespace: javax.mail.internet.AddressException: Local address contains control or whitespace in string ``emailed jmasil11@ford.com''
+04200635123 | krmr46@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200635123.pdf (The system cannot find the file specified)
+04200663212 | laddnagiah@webmail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200663212.pdf (The system cannot find the file specified)
+04200706832 | vinogovender212@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04200706832.pdf (The system cannot find the file specified)
+04201057573 | 0834333757 - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <0834333757>
+
+04250004926 | PIETER.BOWHUNTING@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250004926.pdf (The system cannot find the file specified)
+04250009055 | sbusisntimane@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250009055.pdf (The system cannot find the file specified)
+04250013974 | galexander@uwc.ac.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250013974.pdf (The system cannot find the file specified)
+04250022264 | accounts@compactcool.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250022264.pdf (The system cannot find the file specified)
+04250023422 | joany@absamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250023422.pdf (The system cannot find the file specified)
+04250023573 | wilsons@vodamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250023573.pdf (The system cannot find the file specified)
+04250023996 | betsie.pretorius@bytes.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250023996.pdf (The system cannot find the file specified)
+04250025996 | adenaan.lombi@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250025996.pdf (The system cannot find the file specified)
+04250026000 | Brindhabdb@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250026000.pdf (The system cannot find the file specified)
+04250026048 | sonjak@absa.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250026048.pdf (The system cannot find the file specified)
+04250026082 | rturner@dieburger.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250026082.pdf (The system cannot find the file specified)
+04250026090 | IZAKNICOLENE@TELKOMSA.NET - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250026090.pdf (The system cannot find the file specified)
+04250026116 | lisette.steinmann29@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250026116.pdf (The system cannot find the file specified)
+04250026169 | REDCLIVE@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250026169.pdf (The system cannot find the file specified)
+04250027588 | ISTINIVORSTER@TELKOMSA.NET - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250027588.pdf (The system cannot find the file specified)
+04250028795 | Wilmavn1@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250028795.pdf (The system cannot find the file specified)
+04250029032 | epheniasethosa@gmail..com - Domain contains dot-dot: javax.mail.internet.AddressException: Domain contains dot-dot in string ``epheniasethosa@gmail..com''
+04250029837 | maraisjo@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250029837.pdf (The system cannot find the file specified)
+04250030111 | nico@hersol.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250030111.pdf (The system cannot find the file specified)
+04250030154 | SCHELAN14@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250030154.pdf (The system cannot find the file specified)
+04250030451 | sandraforbes16@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250030451.pdf (The system cannot find the file specified)
+04250030873 | IVAN@EASITURF.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250030873.pdf (The system cannot find the file specified)
+04250030901 | venipillayez@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250030901.pdf (The system cannot find the file specified)
+04250032013 | mvaardt91@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250032013.pdf (The system cannot find the file specified)
+04250032351 | karenvadenberg@sanbs.org.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250032351.pdf (The system cannot find the file specified)
+04250032971 | gretchen.rozema@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250032971.pdf (The system cannot find the file specified)
+04250032971 | michelle.renske@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250032971.pdf (The system cannot find the file specified)
+04250103306 | moodleyr1971@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250103306.pdf (The system cannot find the file specified)
+04250104511 | mari@moorect.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250104511.pdf (The system cannot find the file specified)
+04250104937 | moniquegaybba@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250104937.pdf (The system cannot find the file specified)
+04250104997 | plz@chemvulc.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250104997.pdf (The system cannot find the file specified)
+04250106270 | juanita.naidoo914@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250106270.pdf (The system cannot find the file specified)
+04250107124 | smakwetu@tenneco.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250107124.pdf (The system cannot find the file specified)
+04250107345 | phumlani.chiliza@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250107345.pdf (The system cannot find the file specified)
+04250116437 | JAYDEE43@MWEB.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250116437.pdf (The system cannot find the file specified)
+04250116631 | LEBOGANG.MODISAKENG@HARMONY .CO.ZA - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``LEBOGANG.MODISAKENG@HARMONY .CO.ZA''
+04250119299 | petrodavies@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250119299.pdf (The system cannot find the file specified)
+04250119436 | sphola62.@gmail.com - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <sphola62.@gmail.com>
+
+04250119828 | sebastiankammies@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250119828.pdf (The system cannot find the file specified)
+04250119887 | uresh.sumair@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250119887.pdf (The system cannot find the file specified)
+04250120205 | morrismoatshe@ymail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250120205.pdf (The system cannot find the file specified)
+04250120461 | felicitymarlow@mtn.blackberry.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250120461.pdf (The system cannot find the file specified)
+04250519953 | georgie@naidoo25.gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250519953.pdf (The system cannot find the file specified)
+04250519953 | georgienaidoo25@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250519953.pdf (The system cannot find the file specified)
+04250519996 | ASHONAMOODEY01@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250519996.pdf (The system cannot find the file specified)
+04250520225 | BILLY.NAIDOO@ZA.NAMPAK.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250520225.pdf (The system cannot find the file specified)
+04250521243 | chantelle@fae.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250521243.pdf (The system cannot find the file specified)
+04250522214 | lorraineash.28@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250522214.pdf (The system cannot find the file specified)
+04250522781 | dennisthysse@webmail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250522781.pdf (The system cannot find the file specified)
+04250523343 | MAGGIED@HOTMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250523343.pdf (The system cannot find the file specified)
+04250523560 | bronwyn.venter@fmmotorparts.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250523560.pdf (The system cannot find the file specified)
+04250523598 | tracy@abantusolutions.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250523598.pdf (The system cannot find the file specified)
+04250523913 | charltjiex@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250523913.pdf (The system cannot find the file specified)
+04250524357 | andrew.barker@rocketmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04250524357.pdf (The system cannot find the file specified)
+04252523146 | sash.voctory@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04252523146.pdf (The system cannot find the file specified)
+04252523972 | saddickb@crossroads.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04252523972.pdf (The system cannot find the file specified)
+04260008034 | inciamoyo@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04260008034.pdf (The system cannot find the file specified)
+04288801214 | pillayranz2@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288801214.pdf (The system cannot find the file specified)
+04288801273 | roodtj@vodamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288801273.pdf (The system cannot find the file specified)
+04288801344 | evelinb@puto.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288801344.pdf (The system cannot find the file specified)
+04288805746 | angelt.peters@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288805746.pdf (The system cannot find the file specified)
+04288806951 | davrede@mweb.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288806951.pdf (The system cannot find the file specified)
+04288807375 | jackyjacobs@storehab.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288807375.pdf (The system cannot find the file specified)
+04288807742 | lea.schoevers@lantic.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288807742.pdf (The system cannot find the file specified)
+04288807862 | renier@injectiontechnik.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288807862.pdf (The system cannot find the file specified)
+04288807932 | joleneblignaut@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288807932.pdf (The system cannot find the file specified)
+04288807991 | ahmed.shafiek@ctp.hc.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288807991.pdf (The system cannot find the file specified)
+04288808160 | anthonydawson1607@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288808160.pdf (The system cannot find the file specified)
+04288809057 | pvh@webbedfeet.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288809057.pdf (The system cannot find the file specified)
+04288809240 | merciaf@newmedica.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288809240.pdf (The system cannot find the file specified)
+04288809389 | guyhome@farad.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288809389.pdf (The system cannot find the file specified)
+04288809576 | cindy.potgieter@vodamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288809576.pdf (The system cannot find the file specified)
+04288810095 | elize@suiderkruis.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288810095.pdf (The system cannot find the file specified)
+04288810532 | ANNELIENDP171@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288810532.pdf (The system cannot find the file specified)
+04288810748 | seneshri@netdial.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288810748.pdf (The system cannot find the file specified)
+04288810782 | patdl31@icloud.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288810782.pdf (The system cannot find the file specified)
+04288810948 | naicker.shalin@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288810948.pdf (The system cannot find the file specified)
+04288811362 | THEO@INYOSI.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288811362.pdf (The system cannot find the file specified)
+04288811400 | ABDULABDOOL57@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288811400.pdf (The system cannot find the file specified)
+04288811735 | DESMAC20@HOTMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04288811735.pdf (The system cannot find the file specified)
+04300031470 | kploh@global.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300031470.pdf (The system cannot find the file specified)
+04300483017 | pillayjude@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300483017.pdf (The system cannot find the file specified)
+04300524952 | COLLEENJOSEPH100@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300524952.pdf (The system cannot find the file specified)
+04300589739 | lynettepel@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300589739.pdf (The system cannot find the file specified)
+04300594250 | jacksonkelj@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300594250.pdf (The system cannot find the file specified)
+04300606856 | eecawood@icloud.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300606856.pdf (The system cannot find the file specified)
+04300622964 | chantellef@eastsidecoal.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300622964.pdf (The system cannot find the file specified)
+04300666391 | barbarattorlage@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300666391.pdf (The system cannot find the file specified)
+04300729393 | LINDLEYS@INTEKOM.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300729393.pdf (The system cannot find the file specified)
+04300737275 | sophia.ddooley@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300737275.pdf (The system cannot find the file specified)
+04300738432 | inyathi@colemanco.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300738432.pdf (The system cannot find the file specified)
+04300749098 | skullie.britz@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300749098.pdf (The system cannot find the file specified)
+04300762233 | melantha.govender@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300762233.pdf (The system cannot find the file specified)
+04300773648 | roman@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300773648.pdf (The system cannot find the file specified)
+04300778234 | malcolm.greenland@icloud.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300778234.pdf (The system cannot find the file specified)
+04300802423 | helen@indysue.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300802423.pdf (The system cannot find the file specified)
+04300811902 | diana@wenzille.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300811902.pdf (The system cannot find the file specified)
+04300847505 | info@inkungulodge.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300847505.pdf (The system cannot find the file specified)
+04300847505 | megan@consolek.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300847505.pdf (The system cannot find the file specified)
+04300847505 | MEGAN@CONSOLEK.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300847505.pdf (The system cannot find the file specified)
+04300900882 | ashleharrington81@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300900882.pdf (The system cannot find the file specified)
+04300905038 | danie.bester@voxtelecom.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300905038.pdf (The system cannot find the file specified)
+04300912959 | leon.harmser@pttransformers.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300912959.pdf (The system cannot find the file specified)
+04300926385 | trollip@hermanus.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300926385.pdf (The system cannot find the file specified)
+04300990988 | Lindah1958@webmail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04300990988.pdf (The system cannot find the file specified)
+04301002875 | lesley.ralph@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301002875.pdf (The system cannot find the file specified)
+04301062798 | JULIARWATTON@YAHOO.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301062798.pdf (The system cannot find the file specified)
+04301103956 | renetwilliams@eaton.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301103956.pdf (The system cannot find the file specified)
+04301110640 | menuza9@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301110640.pdf (The system cannot find the file specified)
+04301195672 | lyn@fairacres.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301195672.pdf (The system cannot find the file specified)
+04301195737 | DRCOBB@GLOBAL.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301195737.pdf (The system cannot find the file specified)
+04301196310 | buurvrou19@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301196310.pdf (The system cannot find the file specified)
+04301248828 | mowbrays@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301248828.pdf (The system cannot find the file specified)
+04301252591 | sullivb@mweb.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301252591.pdf (The system cannot find the file specified)
+04301282451 | niemanmagda@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301282451.pdf (The system cannot find the file specified)
+04301382461 | RMOODLEY1@TOYOTA.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301382461.pdf (The system cannot find the file specified)
+04301473363 | shenaazshaikh@sheltam.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04301473363.pdf (The system cannot find the file specified)
+04350001501 | dvzyl1957@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04350001501.pdf (The system cannot find the file specified)
+04350004904 | jcreamer@metsond.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04350004904.pdf (The system cannot find the file specified)
+04350005107 | staessen@hixnet.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04350005107.pdf (The system cannot find the file specified)
+04350005138 | wt@rennies.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04350005138.pdf (The system cannot find the file specified)
+04350005153 | theresaengish123@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04350005153.pdf (The system cannot find the file specified)
+04350028673 | JOUBERTM2541@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04350028673.pdf (The system cannot find the file specified)
+04350028913 | kraai69@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04350028913.pdf (The system cannot find the file specified)
+04388800341 | screenview@vodamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04388800341.pdf (The system cannot find the file specified)
+04388800448 | Anne@vodamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04388800448.pdf (The system cannot find the file specified)
+04388800747 | leesa@yellowjerseylogistics.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04388800747.pdf (The system cannot find the file specified)
+04388800999 | robbynweimann@outlook.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04388800999.pdf (The system cannot find the file specified)
+04388801070 | colleen@ebsco.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04388801070.pdf (The system cannot find the file specified)
+04388801116 | etresia01@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_04388801116.pdf (The system cannot find the file specified)
+05200296987 | alecl@ndl.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200296987.pdf (The system cannot find the file specified)
+05200450280 | suzettet@absa.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200450280.pdf (The system cannot find the file specified)
+05200489141 | beverly.leroux@gmai.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200489141.pdf (The system cannot find the file specified)
+05200507456 | JHSMITH@MRPG.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200507456.pdf (The system cannot find the file specified)
+05200510508 | mbrandling56@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200510508.pdf (The system cannot find the file specified)
+05200513330 | mayxdrude1@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200513330.pdf (The system cannot find the file specified)
+05200527742 | lalie@midwitfence.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200527742.pdf (The system cannot find the file specified)
+05200531271 | LENIE.BANNISTER@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200531271.pdf (The system cannot find the file specified)
+05200538841 | sirias374@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200538841.pdf (The system cannot find the file specified)
+05200558065 | rethavt@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200558065.pdf (The system cannot find the file specified)
+05200573167 | williams.shane30@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200573167.pdf (The system cannot find the file specified)
+05200584864 | winnyroos@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200584864.pdf (The system cannot find the file specified)
+05200600793 | wiltshire.carol.@gmail.com - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <wiltshire.carol.@gmail.com>
+
+05200603518 | mervinsimon2@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200603518.pdf (The system cannot find the file specified)
+05200610642 | ELMARIEACCOUNTS@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200610642.pdf (The system cannot find the file specified)
+05200618527 | glennmobi@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200618527.pdf (The system cannot find the file specified)
+05200621033 | Neil.Russom@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200621033.pdf (The system cannot find the file specified)
+05200696790 | hendriena.pirvu@netcare.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200696790.pdf (The system cannot find the file specified)
+05200696790 | costel.pirvu@gm.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200696790.pdf (The system cannot find the file specified)
+05200740543 | abnortswane.gov.za - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <abnortswane.gov.za>
+
+05200789157 | armstrong.morne@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200789157.pdf (The system cannot find the file specified)
+05200796023 | wiler@bouvestbk.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200796023.pdf (The system cannot find the file specified)
+05200804032 | bernice.pillay@tigerbrands.com  - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200804032.pdf (The system cannot find the file specified)
+05200896174 | LAMDMON.ADELE@AMPATH.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200896174.pdf (The system cannot find the file specified)
+05200910627 | ashraf@sineaudio.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200910627.pdf (The system cannot find the file specified)
+05200918760 | linda01@vadamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200918760.pdf (The system cannot find the file specified)
+05200972627 | supervisor@merpak.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200972627.pdf (The system cannot find the file specified)
+05200973406 | nasreenismail@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200973406.pdf (The system cannot find the file specified)
+05200973578 | jo-annj@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200973578.pdf (The system cannot find the file specified)
+05200973884 | PINGS@ABSAMAIL.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200973884.pdf (The system cannot find the file specified)
+05200974955 | KOOSMAROELA@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05200974955.pdf (The system cannot find the file specified)
+05201001607 | lenwinson@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201001607.pdf (The system cannot find the file specified)
+05201008961 | LIZEJV63@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201008961.pdf (The system cannot find the file specified)
+05201020884 | MWMIKEYVONE@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201020884.pdf (The system cannot find the file specified)
+05201033124 | deniseb@absa.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201033124.pdf (The system cannot find the file specified)
+05201033186 | johanna.hayward@wmw.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201033186.pdf (The system cannot find the file specified)
+05201033365 | LEVERIDGE@HIT.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201033365.pdf (The system cannot find the file specified)
+05201033410 | miranda@covenantlogistics.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201033410.pdf (The system cannot find the file specified)
+05201033821 | ElizeB@fidelitysecurity.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201033821.pdf (The system cannot find the file specified)
+05201033850 | SAHMED@HEROLDGIE.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201033850.pdf (The system cannot find the file specified)
+05201033854 | MENOLIG1@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201033854.pdf (The system cannot find the file specified)
+05201034239 | allanbooyjzsen@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034239.pdf (The system cannot find the file specified)
+05201034443 | THEMURPHYS65@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034443.pdf (The system cannot find the file specified)
+05201034470 | belindanunn2411@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034470.pdf (The system cannot find the file specified)
+05201034524 | DONALD1956MCDONALD@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034524.pdf (The system cannot find the file specified)
+05201034551 | jjbokkelman@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034551.pdf (The system cannot find the file specified)
+05201034689 | MULTILABEL@FREEMAIL.ABSA.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034689.pdf (The system cannot find the file specified)
+05201034798 | freda@creda.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034798.pdf (The system cannot find the file specified)
+05201034844 | WAYNE.NINOW@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034844.pdf (The system cannot find the file specified)
+05201034961 | phillipm@satu.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201034961.pdf (The system cannot find the file specified)
+05201035059 | susankymdell@gmail.co. - Domain ends with dot: javax.mail.internet.AddressException: Domain ends with dot in string ``susankymdell@gmail.co.''
+05201035225 | MURG@NETACTIVE.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201035225.pdf (The system cannot find the file specified)
+05201035256 | peterbrits@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201035256.pdf (The system cannot find the file specified)
+05201036481 | JGOVENDER@MPACT.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201036481.pdf (The system cannot find the file specified)
+05201036644 | JESSICANAID@GMAIL>COM - Missing '<': javax.mail.internet.AddressException: Missing '<' in string ``JESSICANAID@GMAIL>COM'' at position 17
+05201036777 | 'VANESA.JACOB@OMINSURE.CO.ZA' - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <'VANESA.JACOB@OMINSURE.CO.ZA'>
+
+05201036787 | mkgovender@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201036787.pdf (The system cannot find the file specified)
+05201042226 | dlharty.dh@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201042226.pdf (The system cannot find the file specified)
+05201049717 | neels@agrifirst.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201049717.pdf (The system cannot find the file specified)
+05201059563 | shamenvidyanund@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05201059563.pdf (The system cannot find the file specified)
+05203000031 | BRIGD.EWAN@TELKOMSA.NET - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05203000031.pdf (The system cannot find the file specified)
+05260004714 | tdphago@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260004714.pdf (The system cannot find the file specified)
+05260005892 | mmaclea8@ford.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260005892.pdf (The system cannot find the file specified)
+05260006155 | kay.dayaram@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260006155.pdf (The system cannot find the file specified)
+05260006691 | juanitaswanepoel@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260006691.pdf (The system cannot find the file specified)
+05260006832 | wilma@sdinet.org - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260006832.pdf (The system cannot find the file specified)
+05260006832 | sdi@carc.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260006832.pdf (The system cannot find the file specified)
+05260007047 | transport@allanreefers.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260007047.pdf (The system cannot find the file specified)
+05260007090 | fbarnetson@cargomotors.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260007090.pdf (The system cannot find the file specified)
+05260007756 | LETISIA.KOEN@FNB.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260007756.pdf (The system cannot find the file specified)
+05260008092 | Elsabe.els@live.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260008092.pdf (The system cannot find the file specified)
+05260008138 | emmamyrna24@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260008138.pdf (The system cannot find the file specified)
+05260046374 | neompho.mahlangu@gmail - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260046374.pdf (The system cannot find the file specified)
+05260046558 | jean.prinsloo@schnellecke-sa.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260046558.pdf (The system cannot find the file specified)
+05260072547 | tsibiya@uthala.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260072547.pdf (The system cannot find the file specified)
+05260072915 | LULAMAQUEEN@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260072915.pdf (The system cannot find the file specified)
+05260078822 | RULE.TC@TELKOMSA.NET - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260078822.pdf (The system cannot find the file specified)
+05260079088 | jnorcegonzalez@uwc.ac.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260079088.pdf (The system cannot find the file specified)
+05260079469 | chantellevdwesthuizen6@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260079469.pdf (The system cannot find the file specified)
+05260080404 | Sello.Kolisang@Harmony.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260080404.pdf (The system cannot find the file specified)
+05260081290 | karibacraft@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260081290.pdf (The system cannot find the file specified)
+05260081771 | mechelle@saewa.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260081771.pdf (The system cannot find the file specified)
+05260081929 | lthompson@za.mw.gruppoccn.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260081929.pdf (The system cannot find the file specified)
+05260081966 | peterandmavis1@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260081966.pdf (The system cannot find the file specified)
+05260081992 | elsa.dewel@palabora.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260081992.pdf (The system cannot find the file specified)
+05260082248 | anikar.21@hotmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260082248.pdf (The system cannot find the file specified)
+05260680649 | MOBILEBARBIERS@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05260680649.pdf (The system cannot find the file specified)
+05260680710 | johan.m@hcmsa.co.za or yolandiemouton@gmail.com - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``johan.m@hcmsa.co.za or yolandiemouton@gmail.com''
+05288805481 | zandile.joseph@saint-gobain.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288805481.pdf (The system cannot find the file specified)
+05288808998 | fhhendricks@uwc.ac.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288808998.pdf (The system cannot find the file specified)
+05288833430 | pieter.coetzee@sgb-smit.group - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288833430.pdf (The system cannot find the file specified)
+05288892577 | warren@fishwicks.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288892577.pdf (The system cannot find the file specified)
+05288892965 | gillian.cremer@outlook.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288892965.pdf (The system cannot find the file specified)
+05288893269 | thabiso.blackbeard62@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288893269.pdf (The system cannot find the file specified)
+05288893356 | gboraine@uwc.ac.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288893356.pdf (The system cannot find the file specified)
+05288893705 | l.bez@vodamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288893705.pdf (The system cannot find the file specified)
+05288893762 | donovanm@mibfa.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288893762.pdf (The system cannot find the file specified)
+05288893772 | pearls@gold.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288893772.pdf (The system cannot find the file specified)
+05288894238 | zabdulla@uwc.ac.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288894238.pdf (The system cannot find the file specified)
+05288894562 | hoffie.qh@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_05288894562.pdf (The system cannot find the file specified)
+06200005204 | Nireshha.richand@za.nampak.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_06200005204.pdf (The system cannot find the file specified)
+06200005205 | WAHIDAMAHOMED@YAHOO.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_06200005205.pdf (The system cannot find the file specified)
+06200005205 | awgmahomed@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_06200005205.pdf (The system cannot find the file specified)
+06200005395 | ebrahimh@samwumed.org - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_06200005395.pdf (The system cannot find the file specified)
+06300007873 | fsandan@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_06300007873.pdf (The system cannot find the file specified)
+10000009881 | TEMPLETON>MTHETHWA@HARMONY.CO.ZA - Missing '<': javax.mail.internet.AddressException: Missing '<' in string ``TEMPLETON>MTHETHWA@HARMONY.CO.ZA'' at position 9
+10000012527 | sboswell@distell.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000012527.pdf (The system cannot find the file specified)
+10000018002 | GRIFD@INTEKOM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000018002.pdf (The system cannot find the file specified)
+10000021105 | wendyusher1@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000021105.pdf (The system cannot find the file specified)
+10000021105 | wusher@toyota.co.za  - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000021105.pdf (The system cannot find the file specified)
+10000021105 | wusher@toyota.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000021105.pdf (The system cannot find the file specified)
+10000036658 | jax@pumptechnology.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000036658.pdf (The system cannot find the file specified)
+10000044343 | REBABALELAWwGNTPASSENGER.CO.ZA - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <REBABALELAWwGNTPASSENGER.CO.ZA>
+
+10000050603 | MABENAMANDLA992GMAIL.COM - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <MABENAMANDLA992GMAIL.COM>
+
+10000052275 | PENIELBRIDGETH@GMAIL .COM - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``PENIELBRIDGETH@GMAIL .COM''
+10000067420 | ndlovueu@eskom.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000067420.pdf (The system cannot find the file specified)
+10000070701 | greef.pieter.hendrik@gmail.com. - Domain ends with dot: javax.mail.internet.AddressException: Domain ends with dot in string ``greef.pieter.hendrik@gmail.com.''
+10000085690 | RAMNATHJ@YAHOO.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000085690.pdf (The system cannot find the file specified)
+10000085756 | CHARL - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <CHARL>
+
+10000106691 | sshabodien1@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000106691.pdf (The system cannot find the file specified)
+10000107053 | ENOCKMANYONI@GMAIL.COM / ENOCKM@NUMSA.ORG.ZA  - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``ENOCKMANYONI@GMAIL.COM / ENOCKM@NUMSA.ORG.ZA''
+10000132473 | MASUKUTHEMBACHRIS@.COM - Domain starts with dot: javax.mail.internet.AddressException: Domain starts with dot in string ``MASUKUTHEMBACHRIS@.COM''
+10000134317 | PRONITHA.S@WEBMAIL.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000134317.pdf (The system cannot find the file specified)
+10000151942 | STORMK@ESKOM.CO.ZA - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000151942.pdf (The system cannot find the file specified)
+10000162663 | keith@hostworx.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000162663.pdf (The system cannot find the file specified)
+10000184257 | happythipe98@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000184257.pdf (The system cannot find the file specified)
+10000223813 | bongiwevilakazi009@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000223813.pdf (The system cannot find the file specified)
+10000235419 | BRANDEN.NAIDOO@AMCOR.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000235419.pdf (The system cannot find the file specified)
+10000250579 | DAMIANPERUMAL@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000250579.pdf (The system cannot find the file specified)
+10000299362 | JAUNICELUCY@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_10000299362.pdf (The system cannot find the file specified)
+21700007928 | reethachettiar@yahoo.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_21700007928.pdf (The system cannot find the file specified)
+21700008202 | gnfm.co.za - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <gnfm.co.za>
+
+21700376635 | chriselek@telkomsa.net - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_21700376635.pdf (The system cannot find the file specified)
+21800010839 | deville@icon.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_21800010839.pdf (The system cannot find the file specified)
+21800013472 | MURIELARMSTRONG1942@GMAIL.COM - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_21800013472.pdf (The system cannot find the file specified)
+21800024595 | Clive.Kimfley@postoffice.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_21800024595.pdf (The system cannot find the file specified)
+21900013853 | myraleroux1934@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_21900013853.pdf (The system cannot find the file specified)
+22300063990 | elma.v@meditrust.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_22300063990.pdf (The system cannot find the file specified)
+22400020905 | calavis@gmail.com - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_22400020905.pdf (The system cannot find the file specified)
+99911120921 | elgar@absamail.co.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_99911120921.pdf (The system cannot find the file specified)
+99911120945 | torfit@tafta.org.za - IOException while sending message: javax.mail.MessagingException: IOException while sending message;
+  nested exception is:
+	java.io.FileNotFoundException: C:\Output\ClaimsStatements\Member_tobe_Emailed\email\Statement_99911120945.pdf (The system cannot find the file specified)

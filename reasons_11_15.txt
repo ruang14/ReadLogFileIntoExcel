@@ -1,0 +1,42 @@
+Mon Nov 15 20:52:02 CAT 2021
+04200452337 | Thomas.nkala@sappi,com - Illegal address: javax.mail.internet.AddressException: Illegal address in string ``Thomas.nkala@sappi,com''
+04200632872 | emailed jmasil11@ford.com - Local address contains control or whitespace: javax.mail.internet.AddressException: Local address contains control or whitespace in string ``emailed jmasil11@ford.com''
+04200707240 | nenebg@dut.ac.za - 451 4.3.0 Please try later
+: com.sun.mail.smtp.SMTPSendFailedException: 451 4.3.0 Please try later
+
+04201057573 | 0834333757 - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <0834333757>
+
+04250029032 | epheniasethosa@gmail..com - Domain contains dot-dot: javax.mail.internet.AddressException: Domain contains dot-dot in string ``epheniasethosa@gmail..com''
+04250116631 | LEBOGANG.MODISAKENG@HARMONY .CO.ZA - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``LEBOGANG.MODISAKENG@HARMONY .CO.ZA''
+04250119436 | sphola62.@gmail.com - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <sphola62.@gmail.com>
+
+04250518825 | cossyden@yahoo.co.uk/ joeanndenbroeder@gmail.com - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``cossyden@yahoo.co.uk/ joeanndenbroeder@gmail.com''
+04260008016 | phillips.stephen.sp.@gmail.com - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <phillips.stephen.sp.@gmail.com>
+
+04288808984 | van rooyen.gertu@gmail.com - Local address contains control or whitespace: javax.mail.internet.AddressException: Local address contains control or whitespace in string ``van rooyen.gertu@gmail.com''
+04300723076 | mizen@icon.co.za. - Domain ends with dot: javax.mail.internet.AddressException: Domain ends with dot in string ``mizen@icon.co.za.''
+04388808635 | steve@amshaden.co.za - 451 4.3.0 Please try later
+: com.sun.mail.smtp.SMTPSendFailedException: 451 4.3.0 Please try later
+
+05200271043 | irene,naicker@jmh.co.za - Illegal address: javax.mail.internet.AddressException: Illegal address in string ``irene,naicker@jmh.co.za''
+05200533028 | stevenbaloyi@cglc.co.za /stevenb@cglc.co.za - Domain contains control or whitespace: javax.mail.internet.AddressException: Domain contains control or whitespace in string ``stevenbaloyi@cglc.co.za /stevenb@cglc.co.za''
+05200746468 | clelkianesxmb - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <clelkianesxmb>
+
+05200933264 | mailto:zandreplum@yahoo.com - Local address contains illegal character: javax.mail.internet.AddressException: Local address contains illegal character in string ``mailto:zandreplum@yahoo.com''
+05201017907 | gigwanim.@yahoo.com - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <gigwanim.@yahoo.com>
+
+05201035059 | susankymdell@gmail.co. - Domain ends with dot: javax.mail.internet.AddressException: Domain ends with dot in string ``susankymdell@gmail.co.''
+05201036644 | JESSICANAID@GMAIL>COM - Missing '<': javax.mail.internet.AddressException: Missing '<' in string ``JESSICANAID@GMAIL>COM'' at position 17
+05201036777 | 'VANESA.JACOB@OMINSURE.CO.ZA' - Invalid Addresses: javax.mail.SendFailedException: Invalid Addresses;
+  nested exception is:
+	com.sun.mail.smtp.SMTPAddressFailedException: 501 5.5.2 Mailbox invalid <'VANESA.JACOB@OMINSURE.CO.ZA'>
